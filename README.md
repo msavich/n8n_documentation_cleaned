@@ -5,7 +5,7 @@ This repository contains cleaned n8n documentation optimized for training AI lan
 ## Files
 
 - **`extract_docs_improved.py`** - Python script for cleaning Markdown documentation
-- **`n8n_documentation_cleaned_improved.json`** - Cleaned dataset ready for AI training (8.5MB, 650+ documents)
+- **`n8n_documentation_cleaned_improved.json`** - Cleaned dataset ready for AI training (1.9MB, documents)
 
 ## What the cleaning script does
 
@@ -71,7 +71,7 @@ for doc in docs:
 ## Dataset Statistics
 
 - **Source files**: ~650 Markdown files from n8n documentation
-- **Output size**: ~8.5 MB JSON file
+- **Output size**: ~1.9 MB JSON file
 - **Documents**: 500+ cleaned entries
 - **Average document length**: ~2,000 characters
 - **Language**: English
